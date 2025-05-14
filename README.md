@@ -1,1 +1,2 @@
-# scndportfolio-main
+# scndportfolio
+personal portfolio
